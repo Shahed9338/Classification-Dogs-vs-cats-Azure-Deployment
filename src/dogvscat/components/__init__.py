@@ -1,0 +1,1 @@
+from dogvscat.components.data_ingestion import DataIngestion

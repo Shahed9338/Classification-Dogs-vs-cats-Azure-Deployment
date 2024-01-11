@@ -1,0 +1,1 @@
+from dogvscat.config.configuration import ConfigurationManager
