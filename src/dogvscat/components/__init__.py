@@ -1,1 +1,2 @@
 from dogvscat.components.data_ingestion import DataIngestion
+from dogvscat.components.prepare_base_model import PrepareBaseModel

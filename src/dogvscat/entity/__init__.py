@@ -1,1 +1,1 @@
-from dogvscat.entity.entity import (DataIngestionConfig)
+from dogvscat.entity.entity import (DataIngestionConfig, PrepareBaseModelConfig)
