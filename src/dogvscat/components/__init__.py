@@ -2,3 +2,4 @@ from dogvscat.components.data_ingestion import DataIngestion
 from dogvscat.components.prepare_base_model import PrepareBaseModel
 from dogvscat.components.prepare_callbacks import PrepareCallback
 from dogvscat.components.model_trainer import Training
+from dogvscat.components.model_evaluation import Evaluation
