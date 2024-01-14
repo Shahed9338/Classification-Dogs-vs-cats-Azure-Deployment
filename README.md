@@ -48,7 +48,21 @@ Now open up your local host 0.0.0.0:8080
 
 ## Save pass:
 
+```bash
+Demo >> 3NHWZxdfLYo4GfkeDXIyl00IcFV18hQqkeIfTjiVXR+ACRBZ88QA
+```
+
 ## Run from terminal:
+
+```bash
+docker build -t dogandcat.azurecr.io/dogandcat:latest .
+```
+```bash
+docker login dogandcat.azurecr.io
+```
+```bash
+docker push dogandcat.azurecr.io/dogandcat:latest
+```
 
 ## Deployment Steps:
 
